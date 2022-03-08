@@ -1,0 +1,3 @@
+# TWRP DEVICE TREE FOR OPPO-A54
+Credits
+@SebaUbuntu
