@@ -18,3 +18,4 @@
 
 add_lunch_combo omni_OP4F2F-userdebug
 add_lunch_combo omni_OP4F2F-eng
+add_lunch_combo omni_OP4F2F-user

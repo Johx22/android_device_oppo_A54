@@ -18,3 +18,8 @@
 
 PRODUCT_MAKEFILES := \
      $(LOCAL_DIR)/omni_OP4F2F.mk
+
+COMMON_LUNCH_CHOICES := \
+		     omni_OP4F2F-user \
+		     omni_OP4F2F-userdebug \
+		     omni_OP4F2F-eng
