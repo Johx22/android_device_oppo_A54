@@ -18,3 +18,6 @@
 
 LOCAL_PATH := device/oppo/OP4F2F
 
+PRODUCT_PACKAGES += fastbootd
+
+PRODUCT_USE_DYNAMIC_PARTITIONS := true
