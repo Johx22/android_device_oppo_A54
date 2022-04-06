@@ -17,7 +17,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-		 $(LOCAL_DIR)/lineage_OP4F2F.mk \
+     $(LOCAL_DIR)/lineage_OP4F2F.mk \
      $(LOCAL_DIR)/omni_OP4F2F.mk
 
 COMMON_LUNCH_CHOICES := \
